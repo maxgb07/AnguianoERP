@@ -1,0 +1,3 @@
+[03-Jul-2018 17:37:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/clutchyf/public_html/nuevo/php/Conexion/Conexion.php on line 17
+[03-Jul-2018 17:37:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/clutchyf/public_html/nuevo/php/Conexion/Conexion.php on line 41
+[03-Jul-2018 17:37:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clutchyf/public_html/nuevo/php/DAO/loginDAO.php on line 7
